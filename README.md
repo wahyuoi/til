@@ -2,6 +2,8 @@
 
 Collections of write-ups on small things I learn day to day.
 
+- Unix [Yes Command](https://github.com/wahyuoi/til/blob/master/unix/yes-command.md)
+- Bash [Determine Variable Is Empty](https://github.com/wahyuoi/til/blob/master/bash/is_variable_empty.md)
 - Git [Reverse Line](https://github.com/wahyuoi/til/blob/master/git/reverse-lines.md)
 - Git [Replace String on Specific Line](https://github.com/wahyuoi/til/blob/master/git/replace-string-specific-line.md)
 - Git [Remove Root Commit](https://github.com/wahyuoi/til/blob/master/git/remove-root-commit.md)

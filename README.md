@@ -2,6 +2,7 @@
 
 Collections of write-ups on small things I learn day to day.
 
+- Postgres [Postgis Point in Polygon](https://github.com/wahyuoi/til/blob/master/postgresql/postgis_point_in_polygon.md)
 - Postgres [Install Postgis](https://github.com/wahyuoi/til/blob/master/postgresql/install_postgis.md)
 - Postgres [Point in Polygon](https://github.com/wahyuoi/til/blob/master/postgresql/point_in_polygon.md)
 - Docker [Open Shell](https://github.com/wahyuoi/til/blob/master/docker/open-shell-on-running-container.md)

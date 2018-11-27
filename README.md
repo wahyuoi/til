@@ -2,6 +2,7 @@
 
 Collections of write-ups on small things I learn day to day.
 
+- Java [Integer Cache](https://github.com/wahyuoi/til/blob/master/java/integer-cache.md)
 - Postgres [Postgis Intersects](https://github.com/wahyuoi/til/blob/master/postgresql/postgis_intersects.md)
 - Postgres [Postgis Point in Polygon](https://github.com/wahyuoi/til/blob/master/postgresql/postgis_point_in_polygon.md)
 - Postgres [Install Postgis](https://github.com/wahyuoi/til/blob/master/postgresql/install_postgis.md)

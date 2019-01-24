@@ -2,6 +2,7 @@
 
 Collections of write-ups on small things I learn day to day.
 
+- cURL [Follow Redirect](https://github.com/wahyuoi/til/blob/master/curl/follow-redirect.md)
 - Java [Integer Overflow](https://github.com/wahyuoi/til/blob/master/java/int-overflow.md)
 - Java [Logical Operator](https://github.com/wahyuoi/til/blob/master/java/logical-op-short-circuit.md)
 - Java [Integer Cache](https://github.com/wahyuoi/til/blob/master/java/integer-cache.md)

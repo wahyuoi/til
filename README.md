@@ -1,5 +1,7 @@
 # TIL
 
+## **Deprecated**, move to [wahyuoi/notes](github.com/wahyuoi/notes) for latest updates
+
 Collections of write-ups on small things I learn day to day.
 
 - Java [Regex Key Value on Java](https://github.com/wahyuoi/til/blob/master/java/regex-key-value.md)
